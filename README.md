@@ -1,5 +1,5 @@
-### Hello there! 🙋‍♂️
-***
+## Hello there! 🙋‍♂️
+*
 I'm Nguyen Nhat Quan, a sefl-taught Data Analyst
 
 Welcome to my github portfolio where you can find answers for different types of data projects and challenges here
