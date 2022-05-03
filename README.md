@@ -18,7 +18,7 @@
 * Skill: Data Cleaning, Data Analysis, Data Visualization, Statistical Tool
 
 ### My Projects
-* Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** to check my projects
+* Click **[HERE](https://github.com/nguyennhatquan/Project-Guide)** to check my projects
 
 
 ### 📚 Currently Learning
