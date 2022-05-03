@@ -4,6 +4,11 @@ I'm Nguyen Nhat Quan, a sefl-taught Data Analyst
 
 Welcome to my github portfolio where you can find answers for different types of data projects and challenges here
 
+<a href="https://github.com/nguyennhatquan">
+  <img align="center" width="500px" src="https://user-images.githubusercontent.com/38496364/166414953-bebaae3e-1fbd-4a71-b79d-54c0ff2c018e.gif" />
+</a>
+
+
 ✨ Something about me
 
 *
