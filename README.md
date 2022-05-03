@@ -1,11 +1,10 @@
-![banner](https://user-images.githubusercontent.com/38496364/166435376-85e31fb5-e451-416c-9b78-5cf45381dedd.gif)
-
-## Nice to meet you! 🙋‍♂️
-
-I'm Nguyen Nhat Quan, a sefl-taught Data Analyst
+![Image-Description](https://i.pinimg.com/originals/27/ef/80/27ef8075c1ec61735cd7fda22ad9eecd.gif)
 
 <p align = "center">
-  <img width="400px" src="https://user-images.githubusercontent.com/38496364/166428633-0406c5cc-d43d-40b9-bd0f-ce25ab879b56.gif" />
+  I'm <b>Quan</b>, a Data Analyst in making, and welcome to my little place of data projects!!! 📊
+</p>
+<p align = "center">
+  <img width="400px" src="https://user-images.githubusercontent.com/38496364/166451210-7962470e-e30c-4146-b20e-7a92d8cf73ae.gif" />
 </p>
 
 
@@ -17,6 +16,9 @@ I'm Nguyen Nhat Quan, a sefl-taught Data Analyst
 
 * Tool: SQL, Python, PowerBi, PowerQuery
 * Skill: Data Cleaning, Data Analysis, Data Visualization, Statistical Tool
+
+### My Projects
+* Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** to check my projects
 
 
 ### 📚 Currently Learning
