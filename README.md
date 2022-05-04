@@ -1,4 +1,4 @@
-![Image-Description](https://i.pinimg.com/originals/27/ef/80/27ef8075c1ec61735cd7fda22ad9eecd.gif)
+![Image-Description](https://i.pinimg.com/originals/92/a4/6b/92a46b0686ee6bd468c57364d1128bfc.gif)
 
 <p align = "center">
   I'm <b>Quan</b>, a Data Analyst in making, and welcome to my little place of data projects!!! 📊
