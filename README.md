@@ -8,21 +8,24 @@
 </p>
 
 
-### ✨ Something about me
+### ✨ Something about Me
 
-* 👨‍🎓 Before transitioning to Data Analysis field, I've worked in the Logistics field
+* I've worked in the Logisitcs 🚚 field before realising my passion for data
+* I started my journey to transition to Data Analysis since March 2022
+* I studied necessary tools and skilss from MOOCs and sharing from professionals
 
 ### 🏆 Core Competencies
 
-* Tool: SQL, Python, PowerBi, PowerQuery
-* Skill: Data Cleaning, Data Analysis, Data Visualization, Statistical Tool
+* Tool 🔧: SQL, Python, PowerBi, PowerQuery
+* Skill ⚙: Data Cleaning, Data Analysis, Data Visualization, Statistical Tool
 
-### My Projects
-* Click **[HERE](https://github.com/nguyennhatquan/Project-Guide)** to check my projects
+### 🎨 Guid to my Projects
+* Click **[HERE](https://github.com/nguyennhatquan/Project-Guide)** to check my projects and study documents
 
 
 ### 📚 Currently Learning
-
+* Data Analyst with Power Bi Career Track
+* A/B Testing Udacity Course
 
 ### 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nguyennhatquan/)
