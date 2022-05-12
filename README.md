@@ -2,6 +2,9 @@
 
 <p align = "center">
   I'm <b>Quan</b>, a Data Analyst in making, and welcome to my little place of data projects!!! 📊
+</p> 
+<p align = "center">
+  Don't forget to drop me a ⭐ if you find any of my repositories useful 🥰
 </p>
 <p align = "center">
   <img width="400px" src="https://user-images.githubusercontent.com/38496364/166451210-7962470e-e30c-4146-b20e-7a92d8cf73ae.gif" />
@@ -10,14 +13,14 @@
 
 ### ✨ Something about Me
 
-* I've worked in the Logisitcs 🚚 field before realising my passion for data
-* I started my journey to transition to Data Analysis since March 2022
-* I studied necessary tools and skilss from MOOCs and sharing from professionals
+* I've worked in the Logisitcs 🚚 field for a while before realising my passion for data
+* I started my journey to Data Analysis since March 2022
+* I studied necessary tools and skilss from MOOCs and sharings from professionals
 
 ### 🏆 Core Competencies
 
 * Tool 🔧: SQL, Python, PowerBi, PowerQuery
-* Skill ⚙: Data Cleaning, Data Analysis, Data Visualization, Statistical Tool
+* Skill 🖌: Data Cleaning, Data Analysis, Data Visualization, Statistical Tool
 
 ### 🎨 Guid to my Projects
 * Click **[HERE](https://github.com/nguyennhatquan/Project-Guide)** to check my projects and study documents
