@@ -13,16 +13,16 @@
 
 ### ✨ Something about Me
 
-* I've worked in the Logisitcs 🚚 field for a while before realising my passion for data
-* I started my journey to Data Analysis since March 2022
-* I studied necessary tools and skilss from MOOCs and sharings from professionals
+* 🚚 I've worked in the Logisitcs field for a while before realising my passion for data
+* 📝 I started my journey to Data Analysis since March 2022
+* 👨‍💼 I studied necessary tools and skilss from MOOCs and sharings from professionals
 
 ### 🏆 Core Competencies
 
-* Tool 🔧: SQL, Python, PowerBi, PowerQuery
-* Skill 🖌: Data Cleaning, Data Analysis, Data Visualization, Statistical Tool
+* 🔧 Tool: SQL, Python, PowerBi, PowerQuery
+* 🖌 Skill: Data Cleaning, Data Analysis, Data Visualization, Statistical Tool
 
-### 🎨 Guid to my Projects
+### 🗺 Guid to my Projects
 * Click **[HERE](https://github.com/nguyennhatquan/Project-Guide)** to check my projects and study documents
 
 
