@@ -22,7 +22,7 @@
 * 🔧 Tool: SQL, Python, PowerBi, PowerQuery
 * 🖌 Skill: Data Cleaning, Data Analysis, Data Visualization, Statistical Tool
 
-### 🗺 Guid to my Projects
+### 🗺 Guide to my Projects
 * Click **[HERE](https://github.com/nguyennhatquan/Project-Guide)** to check my projects and study documents
 
 
