@@ -19,7 +19,7 @@
 
 ### 🏆 Core Competencies
 
-* 🔧 Tool: SQL, Python, PowerBi, PowerQuery
+* 🔧 Tool: PostGreSQL, Python, PowerBi, PowerQuery, Excel
 * 🖌 Skill: Data Cleaning, Data Analysis, Data Visualization
 
 ### 🗺 Guide to my Projects
@@ -27,8 +27,8 @@
 
 
 ### 📚 Currently Learning
-* [Customer Analytics and A/B Testing in Python](https://app.datacamp.com/learn/courses/customer-analytics-and-ab-testing-in-python)
-* [Analyzing Marketing Campaigns with pandas](https://app.datacamp.com/learn/courses/analyzing-marketing-campaigns-with-pandas)
+* [Data Analyst Track with Python](https://www.datacamp.com/tracks/data-analyst-with-python) ***[60%]***
+* [Data Analyst in Power BI](https://www.datacamp.com/tracks/data-analyst-in-power-bi)
 
 ### 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nguyennhatquan/)
